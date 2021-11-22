@@ -1,0 +1,26 @@
+.App {
+  width: 400px;
+  display: flex;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.content {
+  margin: 0 auto;
+}
+
+.result {
+  display: flex;
+  padding: 20px;
+  border: 1px solid black;
+  justify-content: center;
+  border-radius: 6px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+.btn {
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 6px;
+}
